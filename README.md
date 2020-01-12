@@ -9,6 +9,6 @@ This is made by Mefisto Contreras.
 
 Owned by Jesús Velasco and Mefisto Contreras
 
-![logo](logoChido.png)
+![logo](https://github.com/MefistoContreras/DaMaSoftworks_style/blob/master/logochido.png)
 
 Every logo based on it should be communicated for appreciation :3
